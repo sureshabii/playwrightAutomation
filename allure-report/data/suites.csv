@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12230","Valid Login for PharmaNLB","Google Chrome","Thu Aug 08 21:07:04 IST 2024","passed","Thu Aug 08 21:07:17 IST 2024","PharmaNLB Login Page","Entrypoint\Login.spec.js","",""
